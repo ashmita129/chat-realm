@@ -17,7 +17,7 @@
  Clone the project
 
 ```bash
-git clone https://github.com/ToushifAlam/chat-realm
+git clone https://github.com/ashmita129/chat-realm
 ```
 
 Go to the project directory
